@@ -14,9 +14,9 @@ MathEquiv dataset is accompanied to [EquivPruner](https://github.com/Lolo1222/Eq
 
 The dataset consists of three splits:
 
-- `train` with 97.2k problems for training.
-- `test` with 9826 samples for testing.
-- `valid` with 9755 samples for validation.
+- `train` with 77.6k problems for training.
+- `test` with 9.83k samples for testing.
+- `valid` with 9.75k samples for validation.
 
 You can load the dataset as follows:
 
