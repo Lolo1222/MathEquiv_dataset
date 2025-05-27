@@ -78,17 +78,6 @@ textbf{Sentence2:}
 Output:
 ```
 
-## Citation
-
-If you find the resources in this repository useful, please cite our paper:
-```
-@article{liu2025equivpruner,
-  title={EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning},
-  author={Jiawei Liu, Qisi Chen, Jianshu Zhang, Quan Liu, Defu Lian},
-  journal={arXiv preprint arXiv:2505.16312},
-  year={2025}
-}
-```
 ## License
 
 The dataset is licensed under Apache 2.0
